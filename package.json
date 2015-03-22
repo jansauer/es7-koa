@@ -1,0 +1,20 @@
+{
+  "name": "es7-koa",
+  "version": "0.1.0",
+  "description": "Rewrite of Koa using async functions for ECMAScript.",
+  "homepage": "https://github.com/jansauer/es7-koa",
+  "author": "Jan Sauer <jan@jansauer.de> (https://jansauer.de)",
+  "licenses": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jansauer/es7-koa.git"
+  },
+  "dependencies": {
+    "babel": "^4.7.16",
+    "statuses": "^1.2.1"
+  },
+  "scripts": {
+    "start" : "iojs ./index.js"
+  },
+  "main": "index.js"
+}
