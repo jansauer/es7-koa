@@ -1,6 +1,6 @@
 {
   "name": "es7-koa",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Rewrite of Koa using async functions for ECMAScript.",
   "homepage": "https://github.com/jansauer/es7-koa",
   "author": "Jan Sauer <jan@jansauer.de> (https://jansauer.de)",

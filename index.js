@@ -1,4 +1,4 @@
 require('babel/register')({
   optional: ['asyncToGenerator']
 });
-require('./graph');
+require('./app');

@@ -25,5 +25,5 @@ let dispatcher = new Dispatcher()
  * Start webserver.
  */
 http.createServer(dispatcher.dispatch()).listen(port, function() {
-  console.log('Your graph is up and running on port ' + port);
+  console.log('Your server is up and running on port ' + port);
 });
